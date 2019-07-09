@@ -1,0 +1,36 @@
+.App {
+  text-align : center;
+}
+
+.nav {
+  display : flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(73, 79, 72);
+  color : white;
+}
+
+.nav-links {
+  width : 40%;
+  display : flex;
+  justify-content: space-around;
+  align-items : center;
+  list-style: none;
+}
+
+.container {
+  border: 1px solid blue;
+}
+
+.shop-title {
+  height : 200px;
+  width : 400px;
+  display : flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  border: solid 4px steelblue;
+  border-radius: 5px;
+  
+}
